@@ -1,1 +1,3 @@
 This is first line to check git amend
+
+This is second line
